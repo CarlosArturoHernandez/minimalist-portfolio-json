@@ -87,4 +87,4 @@ npm dev
 
 ## 🔑 Licencia
 
-[MIT](LICENSE.txt) - Creado por [**Carlos**](www.linkedin.com/in/carlos-arturo-hernandez).
+[MIT](LICENSE.txt) - Creado por [**Carlos Arturo Hernández Rodríguez**](www.linkedin.com/in/carlos-arturo-hernandez).
