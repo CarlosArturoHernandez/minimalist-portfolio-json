@@ -1,7 +1,7 @@
 <div align="center">
 <img src="logo.png" height="90px" width="auto" /> 
 <h2>
-    <em>Resumen</em> minimalista maquetado para web y pdf
+    <em></em> minimalista maquetado para web y pdf
 </h2>
 <p>
 Esquema del JSON de CV de <a href="https://jsonresume.org/schema/">jsonresume.org</a>
@@ -61,7 +61,7 @@ corepack enable
 corepack prepare npm@latest --activate
 
 # Inicializa el proyecto
-npm create astro@latest -- --template midudev/minimalist-portfolio-json
+npm create astro@latest
 ```
 
 ### 2. Añade tu contenido:
