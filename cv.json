@@ -1,17 +1,17 @@
 {
   "basics": {
     "name": "Carlos Arturo Hernández Rodríguez",
-    "label": "Full Stack Developer con ~1 año de experiencia",
+    "label": "Full Stack Developer con ≈ 1 año de experiencia",
     "image": "/me.webp",
     "email": "hcarlos780@gmail.com",
     "phone": "+504 89858989",
     "url": "https://linkedin.com/in/carlos-arturo-hernandez",
-    "summary": "~1 años de experiencia como Desarrollador Web. Vivo en tegucigalpa, Honduras. He trabajado en análisis, diseño y desarrollo de sistemas para gestión y administración de proyectos. Formé parte de un equipo Scrum y he desarrollado bajo metodologías ágiles.",
+    "summary": "≈ 1 años de experiencia como Desarrollador Web. Vivo en tegucigalpa, Honduras. He trabajado en análisis, diseño y desarrollo de sistemas para gestión y administración de proyectos. Formé parte de un equipo Scrum y he desarrollado bajo metodologías ágiles.",
     "location": {
       "address": "",
-      "postalCode": "001110",
+      "postalCode": "04001",
       "city": "Tegucigalpa",
-      "countryCode": "ES",
+      "countryCode": "+504",
       "region": "Honduras"
     },
     "profiles": [
@@ -24,18 +24,23 @@
         "network": "GitHub",
         "username": "CarlosArturoHernandez",
         "url": "https://github.com/CarlosArturoHernandez"
+      },
+      {
+        "network": "MyPortfolio",
+        "username": "https://porfolio-carlos-arturo.vercel.app/",
+        "url": "https://porfolio-carlos-arturo.vercel.app/"
       }
     ]
   },
   "work": [
     {
       "name": "BAC-Credomatic",
-      "position": "Práctica profesional como desarrollador en Sistemas Abiertos",
+      "position": "Practicante en: Desarrollo de Sistemas Abiertos",
       "startDate": "2023-10-17",
       "endDate": "2024-03-22",
-      "summary": "Análisis, diseño y desarrollo de sistemas para gestión y administración de proyectos de desarrollo y requerimientos Integrar equipo Scrum y desarrollar bajo metodología Ágil",
+      "summary": "Trabajé en análisis, diseño y desarrollo de sistemas para gestión y administración de proyectos de desarrollo y requerimientos Integrar equipo Scrum y desarrollar bajo metodología Ágil.",
       "highlights": [
-        "Started the company"
+        "Realicé mi práctica profesional en el área de Desarrollo de Sistemas Abiertos"
       ]
     }
   ],
@@ -185,10 +190,11 @@
     {
       "name": "eCommerce",
       "isActive": true,
-      "description": "Lorem ipsum",
+      "description": "Sistema de información de un eCommerce para implementarlo en una pyme.",
       "highlights": [
-        "Lorem Ipsum",
-        "Lorem Ipsum"
+        "JavaScript",
+        "React",
+        "Nodejs"
       ],
       "url": "https://loremipsum"
     }
